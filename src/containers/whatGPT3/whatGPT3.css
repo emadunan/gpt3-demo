@@ -3,6 +3,7 @@
     flex-direction: column;
 
     padding: 2rem;
+    margin: 4rem 6rem;
     background: var(--color-footer);
 
     /* ff 3.6+ */
@@ -111,6 +112,10 @@
     .gpt3__whatgpt3-heading h1 {
         font-size: 28px;
         line-height: 40px;
+    }
+
+    .gpt3__whatgpt3 {
+        margin: 2rem 3rem;
     }
 }
 
